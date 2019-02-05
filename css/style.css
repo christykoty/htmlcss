@@ -1,0 +1,48 @@
+selector { 
+    // Du code CSS, nous verrons plus tard ce que nous pouvons écrire. 
+}
+
+p {  display  : inline ; 
+     largeur : 33%;
+    }
+  
+
+p {  couleur de fond  : tomate ;  }  
+
+ .hello{
+ 	background-color  : tomato ; 
+        bordure  :  1 px noir uni ; 
+
+ }
+
+ .hello { padding-top  :  5 px ; 
+		   fond de rembourrage  :  10 px ; 
+           rembourrage à droite  :  15 px ; 
+		   Rembourrage à gauche  :  20 px ; 
+	}
+
+
+#haha {  color : red 
+
+ margin-top  :  5 px ; 
+        marge inférieure  :  10 px ; 
+        marge droite  :  15 px ; 
+        marge gauche  :  20 px ;      
+
+}
+
+/*l'element devient invisible */
+#hide {display  : none ;  }
+
+
+}
+
+
+
+
+li ,a { 
+        couleur  : rouge ; 
+    }
+
+
+    
